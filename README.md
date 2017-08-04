@@ -1,3 +1,6 @@
-# List_of_Taiwan_OpenData_Diamonds_and_Rust
-# Resume
-# 104-Taichung_FireDisasterEvent_DataMining
+# 104-Taiwan_FireDisasterEvent_DataMining
+# 104年臺灣火災事件資料探勘
+---
+資料來源：http://data.gov.tw/node/13764
+
+#
